@@ -407,8 +407,9 @@
         		$(".component-properties-tab").hide();
         	}
         
-        	Vvveb.Builder.init('demo/narrow-jumbotron/index.html', function() {
+        	Vvveb.Builder.init('demo/open99-app/index.html', function() {
         		//run code after page/iframe is loaded
+			console.log('Document initialized.')
         	});
         
         	Vvveb.Gui.init();
@@ -424,6 +425,7 @@
         		{name:"pricing", title:"Pricing",  url: "demo/pricing/index.html", assets: ['demo/pricing/pricing.css']},
         		{name:"product", title:"Product",  url: "demo/product/index.html", assets: ['demo/product/product.css']},
         		{name:"ecommerce", title:"eCommerce homepage",  url: "demo/essence/index.html",  config: "demo/essence/vvvebjs.json"},
+			{name:"open99-app", title:"Open99 Test App", url: "demo/open99-app/index.html"}
         		//uncomment php code below and rename file to .php extension to load saved html files in the editor
         		/*
         		<?php 
@@ -438,7 +440,7 @@
         		{name:"test", title:"test",  url: "http://vvveb_install.givan.ro/"},
         	]);
         	
-        	Vvveb.FileManager.loadPage("narrow-jumbotron");
+        	Vvveb.FileManager.loadPage("open99-app");
         });
     </script>
 </body>
