@@ -30,7 +30,7 @@ https://github.com/givanz/VvvebJs
         tmpl(document.getElementById(str).innerHTML) :
               
       // Generate a reusable function that will serve as a template
-      // generator (and which will be cached).
+      // generator (and which will be cached). 
       new Function("obj",
         "var p=[],print=function(){p.push.apply(p,arguments);};" +
          
