@@ -24,8 +24,8 @@ By default the editor comes with Bootstrap 4 and Widgets components and can be e
 
 ## Documentation
 
-For documentation check the [wiki](https://github.com/givanz/VvvebJs/wiki)
+For documentation check the [wiki](https://github.com/system41/open99-appmaker/wiki)
 
 ## License
 
-Apache 2.0
+[Apache 2.0](https://github.com/system41/open99-appmaker/blob/master/LICENSE)
