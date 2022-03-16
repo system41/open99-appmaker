@@ -1,7 +1,7 @@
 # open99-appmaker
 
 
-## Drag and drop app builder built on a sturdy JavaScript library.
+## Drag and drop app builder built on Vvveb.js.
 Built with jQuery and Bootstrap 4.
 
 Using [Startboostrap landing page](https://startbootstrap.com/template-overviews/landing-page/) for demo page and Bootstrap 4 components.
@@ -22,9 +22,9 @@ Using [Startboostrap landing page](https://startbootstrap.com/template-overviews
 
 By default the editor comes with Bootstrap 4 and Widgets components and can be extended with any kind of components and inputs.
 
-## Documentation
+## Includes a scratch-like builder
 
-For documentation check the [wiki](https://github.com/system41/open99-appmaker/wiki)
+Thanks to Google's awesome Blockly library, It's easy and simple to add functionality to your app.
 
 ## License
 
