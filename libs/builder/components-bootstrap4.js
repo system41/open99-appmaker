@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 https://github.com/givanz/Vvvebjs
-*/
+
 
 bgcolorClasses = ["bg-primary", "bg-secondary", "bg-success", "bg-danger", "bg-warning", "bg-info", "bg-light", "bg-dark", "bg-white"]
 
@@ -1031,7 +1031,7 @@ Vvveb.Components.extend("_base", "html/image", {
 	{
 		node.attr("src", '');
 		return node;
-	},*/
+	},
     image: "icons/image.svg",
     properties: [{
         name: "Image",
@@ -2331,3 +2331,4 @@ Vvveb.Components.extend("_base", "_base", {
 		}
     }]
 });
+*/

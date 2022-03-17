@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 https://github.com/givanz/Vvvebjs
-*/
+
 
 Vvveb.BlocksGroup['Bootstrap 4 Snippets'] =
 ["bootstrap4/signin-split", "bootstrap4/slider-header", "bootstrap4/image-gallery", "bootstrap4/video-header", "bootstrap4/about-team", "bootstrap4/portfolio-one-column", "bootstrap4/portfolio-two-column", "bootstrap4/portfolio-three-column", "bootstrap4/portfolio-four-column"];
@@ -104,7 +104,7 @@ Vvveb.Blocks.add("bootstrap4/signin-split", {
   line-height: 1.5;
   color: #495057;
   cursor: text;
-  /* Match the input under the label */
+  /* Match the input under the label 
   border: 1px solid transparent;
   border-radius: .25rem;
   transition: all .1s ease-in-out;
@@ -346,7 +346,6 @@ header.video .container {
 }
 
 header.video .overlay {
-  /*position: absolute;*/
   top: 0;
   left: 0;
   height: 100%;
@@ -899,3 +898,4 @@ Vvveb.Blocks.add("bootstrap4/portfolio-four-column", {
 </div>
 `,
 });
+*/

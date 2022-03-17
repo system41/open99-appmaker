@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 https://github.com/givanz/VvvebJs
-*/
+
 
 Vvveb.ComponentsGroup['Server Components'] = ["components/products", "components/product", "components/categories", "components/manufacturers", "components/search", "components/user", "components/product_gallery", "components/cart", "components/checkout", "components/filters", "components/product", "components/slider"];
 
@@ -438,3 +438,4 @@ Vvveb.Components.add("components/slider", {
         inputtype: TextInput
     }]
 });
+*/
